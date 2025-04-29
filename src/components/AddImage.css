@@ -1,0 +1,38 @@
+/* AddImage.css */
+
+.add-image-container {
+    text-align: center;
+    margin-top: 40px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .upload-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .upload-input {
+    margin-bottom: 20px;
+  }
+  
+  .upload-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .upload-button:hover {
+    background-color: #45a049;
+  }
+  
+  .upload-message {
+    margin-top: 15px;
+    font-weight: bold;
+  }
+  
